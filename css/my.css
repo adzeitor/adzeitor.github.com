@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Upheaval Pro";
+  src: url('../font/UpheavalPro.otf');
+}
+
+h1 {
+    font-family: Upheaval Pro;
+    color: #330444;
+}
+
